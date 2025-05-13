@@ -19,5 +19,14 @@ where
 
 - ## References and Acknowledgements
 ```
+@article{qiu2025memgb,
+  title={MeMGB-Diff: Memory-Efficient Multivariate Gaussian Bias Diffusion Model for 3D bias field correction},
+  author={Qiu, Xingyu and Liang, Dong and Luo, Gongning and Li, Xiangyu and Wang, Wei and Wang, Kuanquan and Li, Shuo},
+  journal={Medical Image Analysis},
+  volume={102},
+  pages={103560},
+  year={2025},
+  publisher={Elsevier}
+}
 ```
 
